@@ -1,0 +1,19 @@
+C:\Users\Tanner\source\repos\Gravity\Gravity\obj\Debug\Gravity.csprojResolveAssemblyReference.cache
+C:\Users\Tanner\source\repos\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Gravity\Gravity\bin\Debug\Gravity.exe.config
+C:\Users\Tanner\source\repos\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\Tanner\source\repos\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\Tanner\source\repos\Gravity\Gravity\bin\Debug\OpenTK.dll
+C:\Users\Tanner\source\repos\Gravity\Gravity\bin\Debug\OpenTK.xml
+C:\Users\Tanner\source\repos\Gravity\Gravity\obj\Debug\Gravity.exe
+C:\Users\Tanner\source\repos\Gravity\Gravity\obj\Debug\Gravity.pdb
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\bin\Debug\Gravity.exe.config
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\obj\Debug\Gravity.exe
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\obj\Debug\Gravity.pdb
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\bin\Debug\OpenTK.dll
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\bin\Debug\OpenTK.xml
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\obj\Debug\Gravity.csprojAssemblyReference.cache
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+C:\Users\dared\Documents\Programming\VS Projects\Gravity\Gravity\obj\Debug\Gravity.csproj.CopyComplete
