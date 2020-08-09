@@ -5,7 +5,7 @@ A fundamental forces simulation made with OpenTK.
 <ul>
   <li>Working</li>
   <ul>
-    <li>Gravity (2D only, 3D is a work in progress)</li>
+    <li>Gravity</li>
   </ul>
   <li>Planned</li>
   <ul>
