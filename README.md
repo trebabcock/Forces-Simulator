@@ -11,6 +11,6 @@ A fundamental forces simulation made with OpenTK.
   <ul>
     <li>Electromagnetism</li>
     <li>Weak interaction</li>
-    <li>Strong interacion</li>
+    <li>Strong interaction</li>
   </ul>
 </ul>
